@@ -81,12 +81,11 @@ The project uses multiple datasets related to vaccination coverage, incidence, a
 - Data-driven recommendations for public health strategies.
 
 - https://app.powerbi.com/groups/me/reports/16ba3d5a-4ce7-4d14-ad39-8f7001e534e5/8eea1f8e64348503da22?bookmarkGuid=07d1a24f-8798-4b4e-9b86-1b415047e1e1&bookmarkUsage=1&ctid=00f9cda3-075e-44e5-aa0b-aba3add6539f&portalSessionId=85a9e3bf-105d-42fb-9773-0575c25e256e&fromEntryPoint=export 
-""
-https://github.com/CodeWithXayush/Vaccination-Data-Analysis-and-Visualization/blob/main/Vaccination-Data-Analysis-and-Visualization-REPORT.pdf
-""
+
 ---
 
 ## 🏷️ Tags  
-`Python` `SQL` `Power BI` `EDA` `Data Cleaning` `Data Visualization` `Healthcare Analytics` `Public Health`  
-
+`Python` `SQL` `Power BI` `EDA` `Data Cleaning` `Data Visualization` `Healthcare Analytics` `Public Health` 
+ 
+https://github.com/CodeWithXayush/Vaccination-Data-Analysis-and-Visualization/blob/main/Vaccination-Data-Analysis-and-Visualization-REPORT.pdf
  
