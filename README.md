@@ -72,12 +72,15 @@ The project uses multiple datasets related to vaccination coverage, incidence, a
 
 ---
 
+
 ## 📌 Results & Outcomes  
 - A structured SQL database for global vaccination datasets.  
 - Interactive Power BI dashboards with actionable insights.  
 - Identification of regional disparities and disease outbreak patterns.  
 - Data-driven recommendations for public health strategies.  
-
+""
+https://github.com/CodeWithXayush/Vaccination-Data-Analysis-and-Visualization/blob/main/Vaccination-Data-Analysis-and-Visualization-REPORT.pdf
+""
 ---
 
 ## 🏷️ Tags  
